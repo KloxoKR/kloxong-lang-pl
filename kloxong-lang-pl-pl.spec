@@ -1,5 +1,5 @@
 %define kloxo /usr/local/lxlabs/kloxo/httpdocs/lang
-%define productname kloxong-lang
+%define productname kloxokr-lang
 %define packagename pl-pl
 %define sourcename pl-pl
 %define timestamp 2013031823
@@ -7,7 +7,7 @@
 Name: %{productname}-%{packagename}
 Summary: Kloxo-NG PL-PL language
 Version: 6.5.0.f
-Release: 1.kng%{?dist}
+Release: 1.kkr%{?dist}
 License: GPL
 Group: Applications/Internet
 
