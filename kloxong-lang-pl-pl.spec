@@ -11,7 +11,7 @@ Release: 1.kkr%{?dist}
 License: GPL
 Group: Applications/Internet
 
-Source0: kloxong-lang-pl-pl-%{version}-%{timestamp}.tar.bz2
+Source0: %{name}-%{version}-%{timestamp}.tar.bz2
 
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-root-%(%{__id_u} -n)
 BuildArch: noarch
